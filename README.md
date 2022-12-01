@@ -1,6 +1,12 @@
+
+
+![capa-fullstack-missiel-desenvolvedor](https://user-images.githubusercontent.com/109005976/204940695-1bbdcbec-4e8e-49d2-8924-136ffb8fc1e4.jpg)
 ### Olá, eu sou o Missiel de Lima Soares 🚀
+<br>
+
 Estou em constante evolução, atualmente conclui o curso de Desenvolvedor Full Stack da Recode Pro, e estou no segundo período de Análise e Desenvolvimento de Sistemas pela Unopar.
 Desde muito cedo sempre fui muito ligado ao universo da tecnologia, tentando entender como é desenvolvido programas, ferramentas e dispositivos eletrônicos, possuo curso de Web Design, Design Gráfico e estou me reciclando, aprendendo novas ferramentas e funções, tenho como objetivo me aperfeiçoar ainda mais na área de programação, aprendendo novas linguagens e assim poder me capacitar. 
+
 
 <br>
 
