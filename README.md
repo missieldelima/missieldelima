@@ -42,9 +42,8 @@ Desde muito cedo sempre fui muito ligado ao universo da tecnologia, tentando ent
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missieldelima)](https://github.com/missieldelima/github-readme-stats)
 
+  ##  Programas mais utilizados 💡
   
-## Programas que domino 💡
-
 <div style="display: inline_block"><br/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white"/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
