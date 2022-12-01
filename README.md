@@ -39,6 +39,10 @@ Desde muito cedo sempre fui muito ligado ao universo da tecnologia, tentando ent
 </div>
 <BR>
 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missieldelima)](https://github.com/missieldelima/github-readme-stats)
+
+  
 ## Programas que domino 💡
 
 <div style="display: inline_block"><br/>
@@ -50,9 +54,6 @@ Desde muito cedo sempre fui muito ligado ao universo da tecnologia, tentando ent
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
 
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missieldelima)](https://github.com/missieldelima/github-readme-stats)
-
 
 
 </div>
