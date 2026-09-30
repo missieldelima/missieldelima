@@ -4,7 +4,7 @@
 ### Olá, eu sou o Missiel de Lima Soares 🚀
 <br>
 
-# 👋 Olá, sou o Missiel de Lima!
+# "Transformando linhas de código em soluções que impactam o mundo."
 
 💻 **Desenvolvedor Full Stack & Analista de Cloud**
 
