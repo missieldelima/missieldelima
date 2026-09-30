@@ -93,7 +93,7 @@ Sou apaixonado por tecnologia desde muito cedo, movido pela curiosidade de enten
 
 
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:missielmls@hotmail.com
-) missielmls@hotmail.com
+) soaresmissiel@gmail.com
 <br>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521999210027&text=Ol%C3%A1,%20tudo%20bem%3F)
 +55(21)99921-0027
