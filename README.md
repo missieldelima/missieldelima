@@ -4,8 +4,31 @@
 ### Olá, eu sou o Missiel de Lima Soares 🚀
 <br>
 
-Estou em constante evolução, atualmente conclui o curso de Desenvolvedor Full Stack da Recode Pro, e estou no segundo período de Análise e Desenvolvimento de Sistemas pela Unopar.
-Desde muito cedo sempre fui muito ligado ao universo da tecnologia, tentando entender como é desenvolvido programas, ferramentas e dispositivos eletrônicos, possuo curso de Web Design, Design Gráfico e estou me reciclando, aprendendo novas ferramentas e funções, tenho como objetivo me aperfeiçoar ainda mais na área de programação, aprendendo novas linguagens e assim poder me capacitar. 
+# 👋 Olá, sou o Missiel de Lima!
+
+💻 **Desenvolvedor Full Stack & Analista de Cloud**
+
+Sou apaixonado por tecnologia desde muito cedo, movido pela curiosidade de entender como programas, sistemas e dispositivos funcionam. Busco constantemente aprimorar os meus conhecimentos para criar soluções eficientes e de alto impacto.
+
+---
+
+### 🎓 Formação & Especializações
+- **Análise e Desenvolvimento de Sistemas** — Unopar *(Graduação)*
+- **Desenvolvedor Full Stack** — Recode Pro *(Concluído)*
+- **Analista de Suporte Cloud AWS** — Escola da Nuvem *(Em andamento)*
+- **Web Design & Design Gráfico**
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens & Frameworks:** JavaScript, Node.js, Express, HTML5, CSS3
+- **Base de Dados & Ferramentas:** Git, GitHub, REST APIs, VS Code
+- **Cloud & Infraestrutura:** Fundamentos AWS, Suporte Cloud
+
+---
+
+📫 **Vamos conectar?**
+- GitHub: [missieldelima](https://github.com/missieldelima)
 
 
 <br>
